@@ -64,3 +64,5 @@ CREATE TABLE Detalle_Venta(
   foreign key(IDProducto)
   references tblProducto(IDProducto),
 )
+
+
